@@ -1,3 +1,3 @@
 $(window).load(function() {
-  $("#container1").twentytwenty();
+  $(".container1").twentytwenty();
 });

@@ -5,16 +5,10 @@
 		<!-- css and scripts for the tap navigaton bar -->
 		<template id="assets_frontend" inherit_id="website.assets_frontend" name="Image Comparison Assets">
 			<xpath expr="." position="inside">
-				<link rel="stylesheet" href="/bp_8_0_image_comparison_slider/static/src/css/main.css" type="text/css" media="screen" />
-				<script src="/bp_8_0_image_comparison_slider/static/src/js/main.js" type="text/javascript"></script>
-				<script src="/bp_8_0_image_comparison_slider/static/src/js/jquery.event.move.js" type="text/javascript"></script>
-				<script src="/bp_8_0_image_comparison_slider/static/src/js/jquery.twentytwenty.js" type="text/javascript"></script>
-			</xpath>
-		</template>
-
-		<template id="assets_editor" inherit_id="website.assets_editor" name="Assets for Image Comparison">
-			<xpath expr="." position="inside">
-				<script type="text/javascript" src="/bp_8_0_snippet_tap_navigation/static/js/tab_nav_selector.editor.js"></script>
+				<link rel="stylesheet" href="/bp_image_comparison_slider/static/src/css/main.css" type="text/css" media="screen" />
+				<script src="/bp_image_comparison_slider/static/src/js/main.js" type="text/javascript"></script>
+				<script src="/bp_image_comparison_slider/static/src/js/jquery.event.move.js" type="text/javascript"></script>
+				<script src="/bp_image_comparison_slider/static/src/js/jquery.twentytwenty.js" type="text/javascript"></script>
 			</xpath>
 		</template>
 
@@ -28,11 +22,11 @@
 					
 					<section class="oe_snippet_body mb32">
 						<div class="container mt32">
-							<div id="container1">
+							<div class="container1">
 								 <!-- The before image is first -->
-								 <img src="/bp_8_0_image_comparison_slider/static/src/img/photo_before.jpg" class="img img-responsive" width="100%"/>
+								 <img src="/bp_image_comparison_slider/static/src/img/photo_before.jpg" class="img img-responsive" width="100%"/>
 								 <!-- The after image is last -->
-								 <img src="/bp_8_0_image_comparison_slider/static/src/img/photo_after.jpg" class="img-img-responsive" width="100%"/>
+								 <img src="/bp_image_comparison_slider/static/src/img/photo_after.jpg" class="img-img-responsive" width="100%"/>
 							</div>
 						</div>
 					</section>
