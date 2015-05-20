@@ -16,7 +16,7 @@
 			<xpath expr="//div[@id='snippet_structure']" position="inside">
 				<div>
 					<div class="oe_snippet_thumbnail">
-						<img class="oe_snippet_thumbnail_img" src="/bp_8_0_image_comparison_slider/static/src/img/menu_snippet.jpg" />
+						<img class="oe_snippet_thumbnail_img" src="/bp_image_comparison_slider/static/src/img/menu_snippet.jpg" />
 						<span class="oe_snippet_thumbnail_title">Image Comparisson</span>
 					</div>
 					
