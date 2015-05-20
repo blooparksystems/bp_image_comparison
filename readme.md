@@ -1,4 +1,4 @@
-Image Comparison Slider Snippet
+Odoo Image Comparison Slider Snippet
 ==================
 
 This is how it works:
