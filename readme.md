@@ -3,7 +3,7 @@ Image Comparison Slider Snippet
 
 This is how it works:
 
-<img src="https://raw.githubusercontent.com/blooparksystems/bp_image_comparison_slider/master/static/description/image-comparison-slider.gif">
+<img src="https://raw.githubusercontent.com/blooparksystems/bp_image_comparison/master/static/description/image-comparison-slider.gif">
 
 This snippet is a features for displaying two images and comparing them by dragging a slider. It is meant for use for example "before and after", or ""backstage and onstage", etc.
 
